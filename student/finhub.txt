@@ -1,0 +1,17 @@
+ux- focus on overall expirience and interecting with product
+1. user needs 
+2. behaviours
+
+ASPECTS OF UI/ux
+1.user research
+2. info archtecture(easy navigation)
+3. interaction design
+4.visual design
+5.usability testing
+6.accesibilty
+
+ALWAYS CONSIDER
+1.outcome
+2.structure
+3.interaction
+4.visual
