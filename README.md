@@ -41,14 +41,6 @@ To run this project, you'll need the following environment setup:
    * Import the provided SQL schema file (if included) or create your own tables for books, patrons, categories, authors, loans, fines, etc.
    * Update the database connection details in `config.php` with your database credentials.
 
-3. **Configure Environment (Optional):**
-   * If using Composer, run `composer install` to install dependencies.
-
-4. **Run the Application:**
+3. **Run the Application:**
    * Place the project directory in your web server's document root or a virtual host.
-   * Access the application in your web browser using the appropriate URL (e.g., `http://localhost/online-library-management-system`).
-
-**Usage**
-
-* **Librarians:** Login using the provided credentials (if any) or create admin accounts.
-* **Patrons:** No login required for basic browsing. Registration might be necessary for borrowing privileges.
+   * Access the application in your web browser using the appropriate URL (e.g., `http://localhost/library_management_system`).
